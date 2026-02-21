@@ -10,14 +10,6 @@ A full-featured social platform for developers to connect, share experiences, an
 * 🔐 **Authentication** – Secure login & registration with JWT
 * 🌍 **Responsive UI** – Built with React & Redux
 
-## 🛠️ Tech Stack
-
-* **Frontend:** React, Redux, Axios
-* **Backend:** Node.js, Express.js
-* **Database:** MongoDB (Mongoose)
-* **Auth:** JWT (JSON Web Token), bcrypt.js
-* **API Integration:** GitHub API
-
 ## ⚡ Installation & Setup
 
 ```bash
@@ -45,11 +37,6 @@ cd ..
 # Run the app (concurrently for client & server)
 npm run dev
 ```
-
-The app will run at:
-👉 **Frontend:** [http://localhost:3000](http://localhost:3000)
-👉 **Backend API:** [http://localhost:5000](http://localhost:5000)
-
 ## 📸 Screenshots
 
 <img width="1041" height="600" alt="Screenshot 2025-09-11 213626" src="https://github.com/user-attachments/assets/3291daf4-8f15-4233-a280-3e486314e1af" />
